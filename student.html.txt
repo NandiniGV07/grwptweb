@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>this is GRWPT college results</title>
+<body>
+this college is one of the best college in shimoga, 
+this is a womens polytechnic
+ and it is a govt college also.
+this college is best for campus selection, 
+and this college each student get good marks in every sem,
+and complete the DCET exam very well.
+</body>
+</head>
+</html>
