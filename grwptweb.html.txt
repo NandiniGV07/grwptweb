@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>this is GRWPT college</title>
+<body>
+this college is one of the best college in shimoga, 
+this is a womens polytechnic
+ and it is a govt college also.
+</body>
+</head>
+</html>
